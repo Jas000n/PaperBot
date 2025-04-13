@@ -1,6 +1,6 @@
 site_title = "Jason's Paper Bot"
 limit_days = 7
-cache_url = "https://Jas000n.github.io/MyArxiv/cache.json"
+cache_url = "https://Jas000n.github.io/PaperBot/cache.json"
 
 [[sources]]
 limit = 150
